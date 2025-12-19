@@ -1,5 +1,5 @@
 ################################################################################
-# FILE 02: METHOD 1 - CLASSICAL APPROACH (OLS & FAMA-FRENCH)
+# FILE 02: METHOD 1 - OLS & FAMA-FRENCH APPROACH
 # ============================================================================
 # Description: Implementation of Ordinary Least Squares (OLS) estimation
 #              This method is a foundation to evaluate advanced methods
